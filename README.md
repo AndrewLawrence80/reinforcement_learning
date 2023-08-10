@@ -7,3 +7,4 @@ Some reinforcement learning examples of [David Silver](https://www.davidsilver.u
 - lecture_1: MRP, MDP, Policy Iteration, Value Iteration
 - lecture_2: MC, TD, SARSA, Q_Learning
 - lecture_3: DQN
+- lecture_4: Policy Gradient, Actor Critic
